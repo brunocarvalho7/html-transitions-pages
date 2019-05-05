@@ -1,0 +1,19 @@
+{
+  "name": "my-courses",
+  "version": "1.0.0",
+  "description": "All my saved courses in one place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bruno Carvalho",
+  "license": "ISC",
+  "dependencies": {
+    "@dogstudio/highway": "^2.1.2",
+    "gsap": "^2.1.2"
+  },
+  "devDependencies": {
+    "sass": "^1.20.1"
+  }
+}
